@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Basic",
+    "subtitle": "",
+    "currency": "DH",
+    "price": {
+      "monthly": 1990,
+      "yearly": 23700
+    },
+    "subtitleTwo": "Social media support package",
+    "features": [
+      "Creation/Optimization",
+      "Content Creation (2 Feed)",
+      "Story Creation (3 Feed)",
+      "Creative Post Creation: 1",
+      "ADS Management",
+      "Analysis and Optimization"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Silver",
+    "subtitle": "",
+    "currency": "DH",
+    "price": {
+      "monthly": 2690,
+      "yearly": 32000
+    },
+    "subtitleTwo": "Social media support package",
+    "features": [
+      "Creation/Optimization",
+      "Content Creation (3 Feed)",
+      "Story Creation (4)",
+      "Creative Post Creation: 1",
+      "Comments/Messages/Reviews",
+      "ADS Management",
+      "Analysis and Optimization"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gold",
+    "subtitle": "A beautiful, simple website",
+    "currency": "DH",
+    "price": {
+      "monthly": 3090,
+      "yearly": 37000
+    },
+    "subtitleTwo": "Social media support package",
+    "features": [
+      "Creation/Optimization",
+      "Content Creation (4 Feed)",
+      "Story Creation (7/7)",
+      "Creative Post Creation: 3",
+      "Comments/Messages/Reviews",
+      "ADS Management",
+      "Analysis and Optimization"
+    ]
+  }
+]

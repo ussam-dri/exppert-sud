@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Salah Driouch",
+    "image": "/images/team/salahEXP.jpg",
+    "designation": "CEO",
+    "department": ["Management"],
+    "socials": [
+      { "type": "facebook", "url": "#" },
+      { "type": "twitter", "url": "#" },
+      { "type": "linkedin", "url": "#" },
+      { "type": "instagram", "url": "https://www.instagram.com/salah_dr_expert/" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "#"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "#"}
+    ],
+    "introduction": "Founder & CEO @expert_sud_maroc Expert in Development Economy Business Statistics & Analysis Specialization Dr Enseignant Chercheur"
+  },
+  {
+    "id": 2,
+    "name": "salah oummouch",
+    "image": "/images/team/omoch.jpg",
+    "designation": "Project Manager",
+    "department": ["Management", "Deveolopper"],
+    "socials": [
+      { "type": "facebook", "url": "#" },
+      { "type": "twitter", "url": "#" },
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/salah-oummouch-3535a1270/" },
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
+    ],
+    "introduction": "Formateur || Chef de projet || Software Engineer"
+  }
+]

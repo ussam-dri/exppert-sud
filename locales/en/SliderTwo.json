@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "image": "/images/featured/featured-image-01.jpg",
+      "subtitle": "featured case study",
+      "title": "A safe bet for development ",
+      "description": "Our design office offers you advanced and intelligent, technically and creatively qualified services to consolidate your presence in today's market.",
+      "counter": [
+        {
+          "title": "ROI increase",
+          "amount": 15
+        },
+        {
+          "title": "Monthly website visits",
+          "amount": 60
+        }
+      ],
+      "buttonText": "Consulter"
+    },
+    {
+      "id": 2,
+      "image": "/images/SLID2.jpg",
+      "subtitle": "featured case study",
+      "title": "Accelerate your brand’s growth with powerful digital marketing",
+      "description": "Our team helps you navigate your social media sales growth, customer and location targeting, industry trends and forecasts.",
+      "counter": [
+        {
+            "title": "ROI increase",
+            "amount": 15
+          },
+          {
+            "title": "Monthly website visits",
+            "amount": 60
+          }
+      ],
+      "buttonText": "Lire"
+    },
+    {
+      "id": 3,
+      "image": "/images/SLID3.jpg",
+      "subtitle": "featured case study",
+      "title": "Use the power of social media.",
+      "description": "Expert Sud offers you different forms of communication and promotions. So we help you intervene on social networks (instagram, Facebook, etc.)",
+      "counter": [
+        {
+            "title": "ROI increase",
+            "amount": 15
+          },
+          {
+            "title": "Monthly website visits",
+            "amount": 60
+          }
+      ],
+      "buttonText": "Read Case Study"
+    }
+  ]
+  

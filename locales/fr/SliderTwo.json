@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "/images/featured/featured-image-01.jpg",
+    "subtitle": "",
+    "title": "Une valeur sûre pour le développement ",
+    "description": "Notre bureau d'études vous offre des prestations avancées et intelligentes, techniquement et créativement qualifiées pour consolider votre présence dans le marché actuel. ",
+    "counter": [
+      {
+        "title": "RSI augmentation",
+        "amount": 15
+      },
+      {
+        "title": "Visites mensuelles du site Web",
+        "amount": 60
+      }
+    ],
+    "buttonText": "Consulter"
+  },
+  {
+    "id": 2,
+    "image": "/images/SLID2.jpg",
+    "subtitle": "",
+    "title": "Accélérez la croissance de votre marque grâce au marketing digital performant",
+    "description": "Notre équipe vous aide à naviguer dans la croissance de vos ventes sur les réseaux sociaux , le ciblage des clients et des emplacements, les tendances de l’industrie et les prévisions.",
+    "counter": [
+      {
+        "title": "RSI augmentation",
+        "amount": 15
+      },
+      {
+        "title": "Visites mensuelles du site Web",
+        "amount": 60
+      }
+    ],
+    "buttonText": "Lire"
+  },
+  {
+    "id": 3,
+    "image": "/images/SLID3.jpg",
+    "subtitle": "",
+    "title": "Exploitez la puissance des médias sociaux.",
+    "description": "Expert Sud vous propose les différentes formes de communication et promotions. Ainsi on vous aide d’intervenir sur les réseaux sociaux (instagram, facebook …)",
+    "counter": [
+      {
+        "title": "RSI augmentation",
+        "amount": 15
+      },
+      {
+        "title": "Visites mensuelles du site Web",
+        "amount": 60
+      }
+    ],
+    "buttonText": "Read Case Study"
+  }
+]
